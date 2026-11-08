@@ -1,0 +1,24 @@
+{
+    "responseHeader": {
+        "status": 0,
+        "QTime": 54,
+        "params": {
+            "query": "(imdb:&quot;tt0063350&quot; OR external-identifier:&quot;urn:imdb:tt0063350&quot;) AND mediatype:movies",
+            "qin": "(imdb:&quot;tt0063350&quot; OR external-identifier:&quot;urn:imdb:tt0063350&quot;) AND mediatype:movies",
+            "fields": "identifier,title",
+            "wt": "json",
+            "rows": 5,
+            "start": 0
+        }
+    },
+    "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+            {
+                "identifier": "notld_201610",
+                "title": "Night of the Living Dead"
+            }
+        ]
+    }
+}
