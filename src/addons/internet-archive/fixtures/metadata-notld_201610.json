@@ -1,0 +1,49 @@
+{
+  "created": 1794156752,
+  "dir": "/0/items/notld_201610",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "size": "7773",
+      "format": "Item Tile"
+    },
+    {
+      "name": "notld.mp4",
+      "source": "original",
+      "size": "284358813",
+      "format": "MPEG4",
+      "length": "5796.14",
+      "height": "360",
+      "width": "496"
+    },
+    {
+      "name": "notld.ogv",
+      "source": "derivative",
+      "format": "Ogg Video",
+      "size": "439812095",
+      "length": "5796.14",
+      "height": "300",
+      "width": "413"
+    },
+    {
+      "name": "notld_201610_archive.torrent",
+      "source": "metadata",
+      "size": "29601",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "notld_201610_meta.xml",
+      "source": "original",
+      "size": "2418",
+      "format": "Metadata"
+    }
+  ],
+  "files_count": 104,
+  "metadata": {
+    "identifier": "notld_201610",
+    "title": "Night of the Living Dead",
+    "mediatype": "movies",
+    "imdb": "https://www.imdb.com/title/tt0063350/?ref_=fn_tt_tt_1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "created": 1794154962,
+  "dir": "/0/items/GirlFriday",
+  "files": [
+    {
+      "name": "GirlFriday_archive.torrent",
+      "source": "metadata",
+      "size": "20381",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "GirlFriday_meta.xml",
+      "source": "original",
+      "format": "Metadata",
+      "size": "2615"
+    },
+    {
+      "name": "The_Saint's_Girl_Friday_1953.gif",
+      "source": "derivative",
+      "format": "Animated GIF",
+      "size": "266200"
+    },
+    {
+      "name": "The_Saint's_Girl_Friday_1953.mp4",
+      "source": "original",
+      "format": "MPEG4",
+      "length": "3868.35",
+      "height": "360",
+      "width": "540",
+      "size": "204777902"
+    },
+    {
+      "name": "The_Saint's_Girl_Friday_1953.ogv",
+      "source": "derivative",
+      "format": "Ogg Video",
+      "size": "281641359",
+      "length": "3868.35",
+      "height": "300",
+      "width": "450"
+    },
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "size": "7497",
+      "format": "Item Tile"
+    }
+  ],
+  "files_count": 73,
+  "metadata": {
+    "identifier": "GirlFriday",
+    "title": "His Girl Friday",
+    "mediatype": "movies",
+    "imdb": "https://www.imdb.com/title/tt0032599/?ref_=fn_tt_tt_1"
+  }
+}
