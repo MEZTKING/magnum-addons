@@ -1,0 +1,15 @@
+# Example: run next to Magnum Opus on the same server.
+#   docker compose up -d
+# Published on the host's port 7000. Put it behind your reverse proxy (see README) so
+# Magnum Opus can reach it on a public https address; it refuses localhost/private addresses.
+services:
+  addons:
+    build: .
+    restart: unless-stopped
+    ports:
+      # Bound to localhost: only the reverse proxy on this host can reach it.
+      # Use "7000:7000" to expose it directly instead.
+      - "127.0.0.1:7000:7000"
+    environment:
+      PORT: "7000"
+      # BASE_PATH: "/addons"   # set when a proxy forwards /addons/* without stripping the prefix
